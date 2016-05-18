@@ -4,7 +4,7 @@
   "description": "module that exports the Promise property from es6-promise",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "promise",
     "export"
   ],
-  "author": "",
+  "author": "Serge havas <sinewyk@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/lrqdo/es6-promise-promise/issues"
