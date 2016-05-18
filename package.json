@@ -1,0 +1,27 @@
+{
+  "name": "es6-promise-promise",
+  "version": "1.0.0",
+  "description": "module that exports the Promise property from es6-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lrqdo/es6-promise-promise.git"
+  },
+  "keywords": [
+    "es6-promise",
+    "promise",
+    "export"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lrqdo/es6-promise-promise/issues"
+  },
+  "homepage": "https://github.com/lrqdo/es6-promise-promise#readme",
+  "dependencies": {
+    "es6-promise": "^3.2.1"
+  }
+}
